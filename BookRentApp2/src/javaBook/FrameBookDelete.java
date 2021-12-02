@@ -2,7 +2,7 @@ package javaBook;
 
 import javax.swing.*;
 
-// [µµ¼­ »èÁ¦] ÇÁ·¹ÀÓ Å¬·¡½º
+// [ë„ì„œ ì‚­ì œ] í”„ë ˆì„ í´ë˜ìŠ¤ 
 public class FrameBookDelete extends JFrame {
 	private static final long serialVersionUID = 1L;
 

@@ -2,7 +2,7 @@ package javaBook;
 
 import javax.swing.*;
 
-// [µµ¼­ Ãß°¡] ÇÁ·¹ÀÓ Å¬·¡½º
+// [ë„ì„œ ì¶”ê°€] í”„ë ˆì„ í´ë˜ìŠ¤ 
 public class FrameBookCreate extends JFrame {
 	private static final long serialVersionUID = 1L;
 

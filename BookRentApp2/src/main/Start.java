@@ -1,6 +1,6 @@
 package main;
 
-// ¸ŞÀÎ ¸Ş¼Òµå¸¦ Æ÷ÇÔÇÑ ½ÃÀÛ Å¬·¡½º
+// í”„ë¡œê·¸ë¨ ì‹œì‘ ì‹œ Main ë©”ì†Œë“œë¥¼ í˜¸ì¶œí•˜ëŠ” í´ë˜ìŠ¤
 public class Start {
 	public static void main(String[] args) {
 		

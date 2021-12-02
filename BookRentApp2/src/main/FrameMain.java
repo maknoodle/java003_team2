@@ -2,7 +2,7 @@ package main;
 
 import javax.swing.*;
 
-// ¸ŞÀÎ È­¸é ÇÁ·¹ÀÓ Å¬·¡½º
+// ì´ˆê¸° ë©”ì¸ í™”ë©´ í”„ë ˆì„ í´ë˜ìŠ¤ 
 public class FrameMain extends JFrame {
 	private static final long serialVersionUID = 1L;
 

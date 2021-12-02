@@ -2,7 +2,7 @@ package javaRent;
 
 import javax.swing.*;
 
-// [µµ¼­ ¹İ³³] ÇÁ·¹ÀÓ Å¬·¡½º
+// [ë„ì„œ ë°˜ë‚©] í”„ë ˆì„ í´ë˜ìŠ¤ 
 public class FrameReturn extends JFrame {
 	private static final long serialVersionUID = 1L;
 

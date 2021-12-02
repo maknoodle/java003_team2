@@ -2,7 +2,7 @@ package javaUser;
 
 import javax.swing.*;
 
-// [х╦©Ь а╤х╦] га╥╧юс е╛╥║╫╨
+// [М ▄Л⌡░ Л║╟М ▄] М■└К═┬Л·└ М│╢К·≤Л┼╓ 
 public class FrameUserSearch extends JFrame {
 	private static final long serialVersionUID = 1L;
 
